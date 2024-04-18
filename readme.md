@@ -57,7 +57,8 @@ You can test the model with your images. Follow the steps below:
 
 ## Example Prediction
 
-![Example Image](/content/dog.jpg)
+![dog](https://github.com/j-a-y-e-s-h/Image_classification/assets/75063311/155db9f0-1a52-43ac-97fd-a08b99e34916)
+
 
 Based on the prediction, the model identified the image as a:
 
