@@ -64,7 +64,7 @@ Based on the prediction, the model identified the image as a:
 
 - 🐶 Dog
 
-```
+
 
 Make sure to replace `dog.jpg` with the actual path to your test image in the GitHub repository. Also, create a `plots` directory in your repository to store the accuracy and loss plots generated during training.
-```
+
